@@ -1,0 +1,40 @@
+<h1> 제목크기
+<strong> 진하게 표시한다. 
+<u> 밑줄 
+<p>  단락
+<br> 줄바꿈
+<p style="margin-top:40px;">    태그와태그사이의 여백 지정  = css 문법이다. 
+<img src="">    src=source
+<img src="coding.jpg" width="450">
+
+<parent>         부모테그와 자식테그 
+	<child></child>
+</parent>
+
+<li> 목차 
+<li> 테그의 부모는 <ul> 테그이다.  ul테그는 반드시 li 테그가 있다. 
+
+<ol>
+	<li>자동으로 넘버링 된다.
+</ol>
+
+un orderded  List   - ul  li있으면 ul 부모테그가 무조건 있어야한다. 
+    ordered List     - ol  자동으로 순서대로 번호가 넘버링한다
+
+<table><tr><td></td></tr></table>  같이 다닌다. 
+
+<title> 책표지 </title> 
+
+<meta charset="utf-8">   캐릭터셋  utf-8로 문서화 한다. 
+
+설명이 위에 있고
+
+본문은 body로 묶는다. 
+사람사이의 약속 
+body를 설명하는 테그는 head 로 묶는다. 
+body테그와 head테그를 묶는 최고위층은 <html> 이다 
+
+이 문서는 html 이다. 라는걸 알리는 테그는
+<!doctype html> 이라고 쓰면 된다. 
+
+<a href="주소" target="_blank"  title="">  링크  </a>
